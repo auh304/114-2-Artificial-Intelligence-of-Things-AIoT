@@ -1,2 +1,12 @@
-# 114-2-Artificial-Intelligence-of-Things-AIoT
-Smart IoT and Digital Twin course materials and project outcomes for 114-2.
+# 教學目的與學習歷程紀錄說明
+
+本 GitHub 平台為「智慧物聯網」課程學生期末專題成果管理平台，整合 Scrum 開發流程與 GitHub 版本控管，記錄學生於課程中的學習歷程與專業技能發展。
+
+學生於課程中透過 Scrum 團隊協作進行創新專題實作，並將專題成果（簡報、程式碼）上傳至 GitHub，作為數位學習歷程紀錄，展現其軟體開發過程與學習成效，亦作為教學實踐研究成效評量之依據之一。
+
+## 專案資料說明
+
+每位學生資料夾內包含：
+
+- 專題簡報檔案
+- 專案程式碼
